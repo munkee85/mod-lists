@@ -64,6 +64,7 @@
 -   [Cyberpunk 2077](#cyberpunk-2077)
     -   [Cyberpunk THING](#welcome-to-night-city)
     -   [(NSFW) Ultraviolence (NSFW)](#ultraviolence)
+    -   [Project 2077](#project-2077)
 -   [Baldur's Gate 3](#baldurs-gate-3)
     -   [Listonomicon](#Listonomicon)
     -   [Baldur's Gate 3 Enhanced Edition](#baldurs-Gate-3-Enhanced-Edition)
@@ -857,6 +858,30 @@ Ultraviolence brings you blood, tits and women in a modlist designed to have you
 - Multiple screen archery tools
 - Tweaks to gameplay and balance to make mid to endgame more viable
 - NSFW content in the form of sexy clothes, erotic poses, romance options and the ability to use braindances you can't find at Arasaka Mart
+
+---
+
+### [Project 2077](https://github.com/munkee85/PROJECT-2077)
+
+Project 2077 brings Night City to life with a big focus on immersion and enhanced combat elements. It includes lots of clothing for both V's, plenty of new cars, enhanced romance and much more!
+
+Enhanced graphics, weather systems and many fixes are included to give Night City a more vibrant look while keeping it performance friendly. 
+
+**_Mods to get familiar with:_**
+
+[Dark Future](https://www.nexusmods.com/cyberpunk2077/mods/16300)
+
+[Limited HUD](https://www.nexusmods.com/cyberpunk2077/mods/2592)
+
+[They Will Remember](https://www.nexusmods.com/cyberpunk2077/mods/19747)
+
+[Stock Market and News System](https://www.nexusmods.com/cyberpunk2077/mods/6319)
+
+[Custom Quickslots](https://www.nexusmods.com/cyberpunk2077/mods/3096)
+
+[Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987)
+
+[Virtual Car Dealer](https://www.nexusmods.com/cyberpunk2077/mods/4454)
 
 ---
 
